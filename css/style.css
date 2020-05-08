@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+ul li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.head-buttons a {
+    padding: 3px;
+}
+
+.separator {
+    width: 70px;
+    height: 3px;
+    background-color: green;
+    display: block;
+}
+
+.projects marquee {
+    height: 200px;
+}
